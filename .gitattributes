@@ -1,0 +1,2 @@
+# Avoid bogus automatic recognition of Modelica as Motoko
+*.mo linguist-language=Modelica
